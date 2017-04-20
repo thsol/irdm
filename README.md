@@ -1,4 +1,4 @@
-## IRDM - Learning to Rank
+##  IRDM 2017 - Learning to Rank (Group 41)
 
 As part of the IRDM module, this python file demonstrates a ranking algorithm using the MSLR dataset to train and validate a Logistic
 Regression Classifier to predict relevance of unseen query-doc records.
